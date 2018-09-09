@@ -1,5 +1,6 @@
 # :page_facing_up: KC Storage Project v1.0
-This project was designed to imitate computer storage. You can add, edit and delete suppliers, orders from suppliers, clients, orders for clients and to approve deliveries. Because this is the first version of the project, it may not work properly!<br />
+This project was designed to imitate computer storage. You can add, edit and delete suppliers, orders from suppliers, clients, orders for clients and to approve deliveries. Because this is the first version of the project, it may not work properly!
+<br /><br />
 The following languages are used for the project creation: HTML, CSS, PHP, jQuery (Javascript library) and SQL.
 
 <br />
