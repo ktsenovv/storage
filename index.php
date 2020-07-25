@@ -1,6 +1,6 @@
 <?php
 include('engine/core.php'); #include <ENGINE>
-define('PAGE_NAME', 'Home'); // Define Page Name
+define('PAGE_NAME', 'Home'); #define Page Name
 
 /*===============================================================================*/
 
