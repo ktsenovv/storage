@@ -3,7 +3,7 @@
 
 <br />
 
-<h1>:page_facing_up: Description <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
+<h1>:page_facing_up: Description <a href="#-kcs-storage" title="Go to Navigation">[↑]</a></h1>
 
 * This project was designed to imitate computer storage. You can add, edit and delete suppliers, orders from suppliers, clients, orders for clients and to approve deliveries. Because this is the first version of the project, it may not work properly!
 
@@ -11,7 +11,7 @@
 
 <br />
 
-<h1>:milky_way: Preview <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
+<h1>:milky_way: Preview <a href="#-kcs-storage" title="Go to Navigation">[↑]</a></h1>
 <h4><img src="https://raw.githubusercontent.com/kcenow/Storage/master/Preview/Preview%2001.png">
 (Picture #1)</h4>
 
@@ -35,20 +35,20 @@
 
 <br />
 
-<h1>:cd: Install <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
+<h1>:cd: Install <a href="#-kcs-storage" title="Go to Navigation">[↑]</a></h1>
 
 
 
 <br />
 
-<h1>:arrow_down: Download <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
+<h1>:arrow_down: Download <a href="#-kcs-storage" title="Go to Navigation">[↑]</a></h1>
 
 * <b>[Latest version](https://github.com/kcenow/Storage/releases/tag/v1.0 "Latest version")</b>
 * <b>[All versions](https://github.com/kcenow/Storage/releases "All versions")</b>
 
 <br />
 
-<h1>:scroll: Changelog <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
+<h1>:scroll: Changelog <a href="#-kcs-storage" title="Go to Navigation">[↑]</a></h1>
 
 <b>[v1.0:](https://github.com/kcenow/Storage/releases/tag/v1.0 "Latest version")</b>	First Release.
 
