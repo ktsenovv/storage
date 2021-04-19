@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<!-- TITLE -->
 		<title><?=$g_storage_name.$g_storage_split.PAGE_NAME?></title>
+		<!-- META -->
 		<meta charset="utf-8">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+		<!-- STYLE -->
 		<link href="style/style.css" rel="stylesheet" type="text/css">
+		<!-- ICON -->
+		<link type="image/x-icon" rel="icon" href="favicon.png">
+		<link type="image/x-icon" rel="shortcut icon" href="favicon.png">
+		<!-- JS -->
 		<script type="text/javascript" src="style/jquery-3.3.1.min.js"></script>
 		<script type="text/javascript" src="style/core.js"></script>
 	</head>
