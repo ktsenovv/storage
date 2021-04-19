@@ -4,12 +4,12 @@ $g_db_server	= 'localhost';
 $g_db_port		= 0;
 $g_db_user		= 'root';
 $g_db_password	= '';
-$g_db_name		= 'kcsp';
+$g_db_name		= 'storage';
 $g_db_charset	= 'utf8';
 
-// Site Settings
-$g_project_name = 'KCSP';
-$g_project_split = ': ';
-$g_project_copyright = ''.$g_project_name.' © 2016. Developed by <a href="http://kcstudio.eu/" target="_blank">KC Studio</a>. All Rights Reserved!';
-$g_project_currency = '€'; # Currencies: £, €, lv.
+// Storage Settings
+$g_storage_name = 'KC\'s Storage';
+$g_storage_split = ': ';
+$g_storage_copyright = $g_storage_name.' © '.date('Y', time()).'. All Rights Reserved!<br />[ Developed by <a href="http://kcenow.com/" target="_blank">Kristian Cenow</a> ]';
+$g_storage_currency = '€'; # Currencies: £, €, lv.
 ?>

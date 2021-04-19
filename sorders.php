@@ -95,7 +95,7 @@ include('engine/header.php'); #include <HEADER>
 				</td>
 			</tr>
 			<tr>
-				<td class="right">Price per item [<?=$g_project_currency;?>] <span class="error">*</span></td><td class="left"><input type="number" name="price" value="<?=$price;?>" min="0" step=".01"> <span class="error"><?=d($error_msg['price']);?></span></td>
+				<td class="right">Price per item [<?=$g_storage_currency;?>] <span class="error">*</span></td><td class="left"><input type="number" name="price" value="<?=$price;?>" min="0" step=".01"> <span class="error"><?=d($error_msg['price']);?></span></td>
 			</tr>
 			<tr>
 				<td class="right">Amount <span class="error">*</span></td><td class="left"><input type="number" name="amount" value="<?=$amount;?>" min="1"> <span class="error"><?=d($error_msg['amount']);?></span></td>
@@ -120,7 +120,7 @@ while($l = db_fetch('assoc', $query))
 	$edit = '<a href="?mode=edit&id='.$l['sorder_id'].'"><img src="style/images/edit.png" width="15px" title="Edit"></a>';
 	$delete = '<a href="?mode=delete&id='.$l['sorder_id'].'"><img src="style/images/delete.png" width="15px" title="Delete"></a>';
 	
-	echo '<tr><td>'.$l['sorder_id'].'</td><td>'.$l['sorder_name'].'</td><td>'.$l['sorder_price'].' '.$g_project_currency.'</td><td>'.$l['sorder_amount'].'</td><td>'.$l2['category_name'].'</td><td>'.$l3['supplier_name'].'</td><td>'.$edit.' '.$delete.'</td></tr>';
+	echo '<tr><td>'.$l['sorder_id'].'</td><td>'.$l['sorder_name'].'</td><td>'.$l['sorder_price'].' '.$g_storage_currency.'</td><td>'.$l['sorder_amount'].'</td><td>'.$l2['category_name'].'</td><td>'.$l3['supplier_name'].'</td><td>'.$edit.' '.$delete.'</td></tr>';
 }
 ?>
 	</table>

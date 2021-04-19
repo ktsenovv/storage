@@ -1,6 +1,6 @@
 				</div>
 			</div>
-			<footer><?=$g_project_copyright;?></footer>
+			<footer><?=$g_storage_copyright;?></footer>
 		</main>
 	</body>
 </html>

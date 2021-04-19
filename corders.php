@@ -1,6 +1,6 @@
 <?php
 include('engine/core.php'); #include <ENGINE>
-define('PAGE_NAME', 'Orders for clients'); // Define Page Name
+define('PAGE_NAME', 'Orders from clients'); // Define Page Name
 
 /*===============================================================================*/
 
@@ -98,7 +98,7 @@ include('engine/header.php'); #include <HEADER>
 				</td>
 			</tr>
 			<tr>
-				<td class="right">Price per item [<?=$g_project_currency;?>] <span class="error">*</span></td><td class="left"><input type="number" name="price" value="<?=$price;?>" min="0" step=".01"> <span class="error"><?=d($error_msg['price']);?></span></td>
+				<td class="right">Price per item [<?=$g_storage_currency;?>] <span class="error">*</span></td><td class="left"><input type="number" name="price" value="<?=$price;?>" min="0" step=".01"> <span class="error"><?=d($error_msg['price']);?></span></td>
 			</tr>
 			<tr>
 				<td class="right">Amount</td>
@@ -127,7 +127,7 @@ while($l = db_fetch('assoc', $query))
 	$l3 = db_fetch('assoc', db_query('SELECT * FROM clients WHERE client_id='.$l['corder_cntid']));
 	$delete = '<a href="?mode=delete&id='.$l['corder_id'].'"><img src="style/images/delete.png" width="15px" title="Delete"></a>';
 	
-	echo '<tr><td>'.$l['corder_id'].'</td><td>'.$l['corder_name'].'</td><td>'.$l['corder_price'].' '.$g_project_currency.'</td><td>'.$l['corder_amount'].'</td><td>'.$l2['category_name'].'</td><td>'.$l3['client_name'].'</td><td>'.$delete.'</td></tr>';
+	echo '<tr><td>'.$l['corder_id'].'</td><td>'.$l['corder_name'].'</td><td>'.$l['corder_price'].' '.$g_storage_currency.'</td><td>'.$l['corder_amount'].'</td><td>'.$l2['category_name'].'</td><td>'.$l3['client_name'].'</td><td>'.$delete.'</td></tr>';
 }
 ?>
 	</table>

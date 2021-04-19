@@ -108,7 +108,7 @@ if($mode == 'edit' && isset($id) && is_numeric($id))
 				</td>
 			</tr>
 			<tr>
-				<td class="right">Price per item [<?=$g_project_currency;?>] <span class="error">*</span></td><td class="left"><input type="number" name="price" value="<?=$price;?>" step=".01"> <span class="error"><?=d($error_msg['price']);?></span></td>
+				<td class="right">Price per item [<?=$g_storage_currency;?>] <span class="error">*</span></td><td class="left"><input type="number" name="price" value="<?=$price;?>" step=".01"> <span class="error"><?=d($error_msg['price']);?></span></td>
 			</tr>
 			<tr>
 				<td class="right">Брой <span class="error">*</span></td><td class="left"><input type="number" name="amount" value="<?=$amount;?>" min="1"> <span class="error"><?=d($error_msg['amount']);?></span></td>
@@ -135,7 +135,7 @@ while($l = db_fetch('assoc', $query))
 	
 	$edit = '<a href="?mode=edit&id='.$l['item_id'].'"><img src="style/images/edit.png" width="15px" title="Edit"></a>';
 	$delete = '<a href="?mode=delete&id='.$l['item_id'].'"><img src="style/images/delete.png" width="15px" title="Delete"></a>';
-	echo '<tr><td>'.$l['item_id'].'</td><td>'.$l['item_name'].'</td><td>'.$l['item_price'].' '.$g_project_currency.'</td><td>'.$l['item_amount'].'</td><td>'.$l2['category_name'].'</td><td>'.$edit.' '.$delete.'</td></tr>';
+	echo '<tr><td>'.$l['item_id'].'</td><td>'.$l['item_name'].'</td><td>'.$l['item_price'].' '.$g_storage_currency.'</td><td>'.$l['item_amount'].'</td><td>'.$l2['category_name'].'</td><td>'.$edit.' '.$delete.'</td></tr>';
 }
 ?>
 	</table>
