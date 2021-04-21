@@ -1,8 +1,8 @@
 <?php
 // Database Settings
-$g_db_server	= 'localhost';
+$g_db_server	= '';
 $g_db_port		= 0;
-$g_db_user		= 'root';
+$g_db_user		= '';
 $g_db_password	= '';
 $g_db_name		= 'storage';
 $g_db_charset	= 'utf8';
