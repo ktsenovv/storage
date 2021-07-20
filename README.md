@@ -5,7 +5,7 @@
 
 <h1>:page_facing_up: Description <a href="#-kcs-storage" title="Go to Navigation">[↑]</a></h1>
 
-* This project is designed to imitate storage of computer shop. You can add, edit and delete suppliers, orders from suppliers, clients, orders from clients and to accept deliveries.
+* This project is designed to imitate computer storage. You can add, edit and delete suppliers, orders from suppliers, clients, orders from clients and to accept deliveries.
 
 * The following languages are used for the project creation: HTML, CSS, PHP, jQuery and SQL.
 
