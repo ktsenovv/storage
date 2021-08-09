@@ -55,4 +55,4 @@
 <br />
 
 <h1>:copyright: Copyright <a href="#-kcs-storage" title="Go to Navigation">[↑]</a></h1>
-© KC &#128640; Kristian Cenow. All rights reserved. KC® Logo and all related elements are trademarks of and © Kristian Cenow.
+© Kristian Cenow &#128640; KC. All rights reserved. KC® Logo and all related elements are trademarks of and © Kristian Cenow.
