@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/Storage/master/favicon.png" width="25px" height="25px"> KC's Storage</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/storage/master/src/favicon.png" width="25px" height="25px"> KC's Storage</h1>
 <p align="center"><b><a href="#page_facing_up-description-">:page_facing_up:DESCRIPTION</a> • <a href="#milky_way-preview-">:milky_way:PREVIEW</a> • <a href="#cd-install-">:cd:INSTALL</a> • <a href="#arrow_down-download-">:arrow_down:DOWNLOAD</a> • <a href="#scroll-changelog-">:scroll:CHANGELOG</a> • <a href="#copyright-copyright-">:copyright:COPYRIGHT</a></b></p>
 
 <br />
@@ -12,25 +12,25 @@
 <br />
 
 <h1>:milky_way: Preview <a href="#-kcs-storage" title="Go to Navigation">[↑]</a></h1>
-<h4><img src="https://raw.githubusercontent.com/kcenow/Storage/master/Preview/Preview%2001.png">
+<h4><img src="https://raw.githubusercontent.com/kcenow/storage/master/preview/preview_01.png">
 (Picture #1)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/Storage/master/Preview/Preview%2002.png">
+<h4><img src="https://raw.githubusercontent.com/kcenow/storage/master/preview/preview_02.png">
 (Picture #2)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/Storage/master/Preview/Preview%2003.png">
+<h4><img src="https://raw.githubusercontent.com/kcenow/storage/master/preview/preview_03.png">
 (Picture #3)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/Storage/master/Preview/Preview%2004.png">
+<h4><img src="https://raw.githubusercontent.com/kcenow/storage/master/preview/preview_04.png">
 (Picture #4)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/Storage/master/Preview/Preview%2005.png">
+<h4><img src="https://raw.githubusercontent.com/kcenow/storage/master/preview/preview_05.png">
 (Picture #5)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/Storage/master/Preview/Preview%2006.png">
+<h4><img src="https://raw.githubusercontent.com/kcenow/storage/master/preview/preview_06.png">
 (Picture #6)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/Storage/master/Preview/Preview%2007.png">
+<h4><img src="https://raw.githubusercontent.com/kcenow/storage/master/preview/preview_07.png">
 (Picture #7)</h4>
 
 <br />
@@ -43,14 +43,14 @@
 
 <h1>:arrow_down: Download <a href="#-kcs-storage" title="Go to Navigation">[↑]</a></h1>
 
-* <b>[Latest version](https://github.com/kcenow/Storage/releases/tag/v1.0 "Latest version")</b>
-* <b>[All versions](https://github.com/kcenow/Storage/releases "All versions")</b>
+* <b>[Latest version](https://github.com/kcenow/storage/releases/tag/v1.0 "Latest version")</b>
+* <b>[All versions](https://github.com/kcenow/storage/releases "All versions")</b>
 
 <br />
 
 <h1>:scroll: Changelog <a href="#-kcs-storage" title="Go to Navigation">[↑]</a></h1>
 
-<b>[v1.0:](https://github.com/kcenow/Storage/releases/tag/v1.0 "Latest version")</b>	First Release.
+<b>[v1.0:](https://github.com/kcenow/storage/releases/tag/v1.0 "Latest version")</b>	First Release.
 
 <br />
 
