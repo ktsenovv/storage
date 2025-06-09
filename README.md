@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/storage/master/src/favicon.png" width="25px" height="25px"> KC's Storage</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/storage/master/src/favicon.png" width="25px" height="25px"> KT's Storage</h1>
 <p align="center"><b><a href="#page_facing_up-description-">:page_facing_up:DESCRIPTION</a> • <a href="#milky_way-preview-">:milky_way:PREVIEW</a> • <a href="#cd-install-">:cd:INSTALL</a> • <a href="#arrow_down-download-">:arrow_down:DOWNLOAD</a> • <a href="#scroll-changelog-">:scroll:CHANGELOG</a> • <a href="#copyright-copyright-">:copyright:COPYRIGHT</a></b></p>
 
 <br />
@@ -55,4 +55,4 @@
 <br />
 
 <h1>:copyright: Copyright <a href="#-kcs-storage" title="Go to Navigation">[↑]</a></h1>
-© Kristian Cenow &#128640; KC. All rights reserved. KC® Logo and all related elements are trademarks of and © Kristian Cenow.
+© Kristian Tsenov. All rights reserved. K® Logo and all related elements are trademarks of and © Kristian Tsenov.
